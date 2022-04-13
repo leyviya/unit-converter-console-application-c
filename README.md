@@ -1,4 +1,4 @@
-# Unit Converter Desktop Application - C language
+# Unit Converter Console Application - C language
 
 The following C project contains the C source code and C examples used for "Unit Converter". 
 
